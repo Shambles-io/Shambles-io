@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mike (aka Shambles)!
 - 👀 I’m interested in programming, electronics, and technology!
-- 🌱 I’m currently learning cybersecurity and (ethical) web application hacking!
-- 💞️ I’m open to collaborating on mostly anything. I have experience using Python, C, C++, JavaScript, CSS, HTML, and Java, and I'm always eager to learn more!
+- 🌱 I’m currently learning embedded systems!
+- 💞️ I’m open to collaborating on mostly anything. I have experience using Python, C, C++, and JavaScript.
 - 📫 How to reach me ... 
 
 <!---
