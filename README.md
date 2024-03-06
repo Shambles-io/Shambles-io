@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Mike (aka Shambles)!
+- 👋 Hi, I’m Mike (Shambles)!
 - 👀 I’m interested in programming, electronics, and technology!
-- 🌱 I’m currently learning embedded systems!
-- 💞️ I’m open to collaborating on mostly anything. I have experience using Python, C, C++, and JavaScript.
+- 🌱 I’m currently embedded systems programming and application development!
+- 💞️ Open to collaboration on projects!
 - 📫 How to reach me ... 
 
 <!---
